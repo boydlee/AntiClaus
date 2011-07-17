@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/lemonadestand_solutions/!svn/ver/2/Games/The%20AntiSanta/libs/cocos2d/Platforms/iOS
+END
+CCTouchHandler.m
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/lemonadestand_solutions/!svn/ver/2/Games/The%20AntiSanta/libs/cocos2d/Platforms/iOS/CCTouchHandler.m
+END
+CCDirectorIOS.h
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/lemonadestand_solutions/!svn/ver/2/Games/The%20AntiSanta/libs/cocos2d/Platforms/iOS/CCDirectorIOS.h
+END
+ESRenderer.h
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/lemonadestand_solutions/!svn/ver/2/Games/The%20AntiSanta/libs/cocos2d/Platforms/iOS/ESRenderer.h
+END
+CCTouchDispatcher.h
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/lemonadestand_solutions/!svn/ver/2/Games/The%20AntiSanta/libs/cocos2d/Platforms/iOS/CCTouchDispatcher.h
+END
+ES1Renderer.h
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/lemonadestand_solutions/!svn/ver/2/Games/The%20AntiSanta/libs/cocos2d/Platforms/iOS/ES1Renderer.h
+END
+CCDirectorIOS.m
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/lemonadestand_solutions/!svn/ver/2/Games/The%20AntiSanta/libs/cocos2d/Platforms/iOS/CCDirectorIOS.m
+END
+glu.c
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/lemonadestand_solutions/!svn/ver/2/Games/The%20AntiSanta/libs/cocos2d/Platforms/iOS/glu.c
+END
+EAGLView.h
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/lemonadestand_solutions/!svn/ver/2/Games/The%20AntiSanta/libs/cocos2d/Platforms/iOS/EAGLView.h
+END
+CCTouchDispatcher.m
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/lemonadestand_solutions/!svn/ver/2/Games/The%20AntiSanta/libs/cocos2d/Platforms/iOS/CCTouchDispatcher.m
+END
+ES1Renderer.m
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/lemonadestand_solutions/!svn/ver/2/Games/The%20AntiSanta/libs/cocos2d/Platforms/iOS/ES1Renderer.m
+END
+CCTouchDelegateProtocol.h
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/lemonadestand_solutions/!svn/ver/2/Games/The%20AntiSanta/libs/cocos2d/Platforms/iOS/CCTouchDelegateProtocol.h
+END
+CCTouchHandler.h
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/lemonadestand_solutions/!svn/ver/2/Games/The%20AntiSanta/libs/cocos2d/Platforms/iOS/CCTouchHandler.h
+END
+glu.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/lemonadestand_solutions/!svn/ver/2/Games/The%20AntiSanta/libs/cocos2d/Platforms/iOS/glu.h
+END
+EAGLView.m
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/lemonadestand_solutions/!svn/ver/2/Games/The%20AntiSanta/libs/cocos2d/Platforms/iOS/EAGLView.m
+END

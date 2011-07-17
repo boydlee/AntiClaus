@@ -1,0 +1,95 @@
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/lemonadestand_solutions/!svn/ver/2/Games/The%20AntiSanta/Classes
+END
+HelloWorldScene.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/lemonadestand_solutions/!svn/ver/2/Games/The%20AntiSanta/Classes/HelloWorldScene.h
+END
+Cocos2DSimpleGameAppDelegate.h
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/lemonadestand_solutions/!svn/ver/2/Games/The%20AntiSanta/Classes/Cocos2DSimpleGameAppDelegate.h
+END
+HelloWorldScene.m
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/lemonadestand_solutions/!svn/ver/2/Games/The%20AntiSanta/Classes/HelloWorldScene.m
+END
+GameConfig.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/lemonadestand_solutions/!svn/ver/2/Games/The%20AntiSanta/Classes/GameConfig.h
+END
+Cocos2DSimpleGameAppDelegate.m
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/lemonadestand_solutions/!svn/ver/2/Games/The%20AntiSanta/Classes/Cocos2DSimpleGameAppDelegate.m
+END
+HighScoresScene.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/lemonadestand_solutions/!svn/ver/2/Games/The%20AntiSanta/Classes/HighScoresScene.h
+END
+GameMenuScene.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/lemonadestand_solutions/!svn/ver/2/Games/The%20AntiSanta/Classes/GameMenuScene.h
+END
+HighScoresScene.m
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/lemonadestand_solutions/!svn/ver/2/Games/The%20AntiSanta/Classes/HighScoresScene.m
+END
+GameMenuScene.m
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/lemonadestand_solutions/!svn/ver/2/Games/The%20AntiSanta/Classes/GameMenuScene.m
+END
+RootViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/lemonadestand_solutions/!svn/ver/2/Games/The%20AntiSanta/Classes/RootViewController.h
+END
+InstructionsScene.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/lemonadestand_solutions/!svn/ver/2/Games/The%20AntiSanta/Classes/InstructionsScene.h
+END
+GameOverScene.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/lemonadestand_solutions/!svn/ver/2/Games/The%20AntiSanta/Classes/GameOverScene.h
+END
+RootViewController.m
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/lemonadestand_solutions/!svn/ver/2/Games/The%20AntiSanta/Classes/RootViewController.m
+END
+InstructionsScene.m
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/lemonadestand_solutions/!svn/ver/2/Games/The%20AntiSanta/Classes/InstructionsScene.m
+END
+GameOverScene.m
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/lemonadestand_solutions/!svn/ver/2/Games/The%20AntiSanta/Classes/GameOverScene.m
+END
